@@ -1,0 +1,27 @@
+{
+    "2024.131.2243.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationPreview_2024.131.2243.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": null,
+                "SHA256": null
+            },
+            "UpdateID": [
+                "cc96710c-d691-41eb-9cfe-2ecd042236bc"
+            ]
+        }
+    },
+    "2024.328.2351.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationPreview_2024.328.2351.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": null,
+                "SHA256": null
+            },
+            "UpdateID": [
+                "ef5ec960-149c-4f9b-8e22-5951cdc4bf0b",
+                "397ffd26-8f34-4996-90bd-faad964d0b5a"
+            ]
+        }
+    }
+}

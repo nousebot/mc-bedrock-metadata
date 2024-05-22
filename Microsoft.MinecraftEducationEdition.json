@@ -1,0 +1,102 @@
+{
+    "2021.514.354.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2021.514.354.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "20cccfa447291d848138c03f0c917295",
+                "SHA256": "e84469df2a2281c039115913027963d66a25fca426a8a40151ce32fa4a960387"
+            },
+            "UpdateID": [
+                "8f55fa98-114e-4ef0-85db-3920dae88d11"
+            ]
+        }
+    },
+    "2022.801.2315.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2022.801.2315.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "f8dda0c23c1af9b8f3851f3c903738f4",
+                "SHA256": "6ea6785104f911906a8fa061800f997684929fc1b153ac48be04dc99b1465383"
+            },
+            "UpdateID": [
+                "b1065484-1aab-4d95-ab27-2c7a67889eb5"
+            ]
+        }
+    },
+    "2022.1015.43.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2022.1015.43.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "48a4f33da1d3054d2b27751e24096863",
+                "SHA256": "6aa0f070c5bde1a76f8b01ced56cd5a16a524ee8cb322aa421557dc0db556864"
+            },
+            "UpdateID": [
+                "385c161c-c788-435a-9d2d-9fd176583c69"
+            ]
+        }
+    },
+    "2023.111.204.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2023.111.204.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "edf7303a47a780f6cd5b13c1093edfc2",
+                "SHA256": "7a007fd7ebc5136d91d30b477c817c6d353d6d3c635e7a5dbc64e67efce066c2"
+            },
+            "UpdateID": [
+                "390d00af-6403-492a-ae07-e9a42c7ef050",
+                "3b7ed1cb-08c4-4877-b2b9-0a5d7990c127"
+            ]
+        }
+    },
+    "2023.330.459.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2023.330.459.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "d9bbc2c4058cda45cc0a5c644970429c",
+                "SHA256": "57f9e1b0b15c1bc4da6323c6f05d60dbd0a76c5567582cbb34ae5fd977e44a8c"
+            },
+            "UpdateID": [
+                "329e0dd9-e188-46ca-9f80-381e0be1386d"
+            ]
+        }
+    },
+    "2023.616.401.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2023.616.401.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "26a7a212eeaad542a322edf072701e46",
+                "SHA256": "e925990980018a730a8e3bc2fecaaf00fc1502ce24c983a1be34a33da103a0c2"
+            },
+            "UpdateID": [
+                "91e95353-3553-4b4b-acb7-a72999112219"
+            ]
+        }
+    },
+    "2023.726.56.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2023.726.56.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "c3a512d86bba4f569d098ce7ed7710d0",
+                "SHA256": "ffdeb84eb0fdf747a44288ba9cde2780fd0411ceb82d86fbaed098bc7f909c81"
+            },
+            "UpdateID": [
+                "5f8ace98-bcdd-4d87-9aaf-9ef5495c3058",
+                "c6b43b87-e17d-4fac-a6a4-c1e99050e397",
+                "f2f32388-c09d-439f-8317-349eff92235b"
+            ]
+        }
+    },
+    "2023.1107.1857.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2023.1107.1857.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": null,
+                "SHA256": null
+            },
+            "UpdateID": [
+                "fd0a05d6-bd0a-4e8e-925e-03a122b4d5de",
+                "46da7b83-4a20-429d-9e99-f14a5f10ec88"
+            ]
+        }
+    }
+}
