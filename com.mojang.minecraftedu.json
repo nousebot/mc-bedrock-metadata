@@ -1,0 +1,52 @@
+{
+    "1.20.13.0": {
+        "x86_64": {
+            "VersionCode": 982001300,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_1.20.13.0_982001300.apk",
+                "FileSize": 345138632,
+                "Hashes": {
+                    "MD5": "cf32f56dd9179c3defde9c43ac3b717a",
+                    "SHA256": "a7a03a0a0219497f9b2c37ee6fe26b9a92ebc82961fee07d3d6ab71e3daadcdf"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972001300,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_1.20.13.0_972001300.apk",
+                "FileSize": 341177824,
+                "Hashes": {
+                    "MD5": "c57ee5ccb12b9c0d64b9febfe3604af7",
+                    "SHA256": "77c3900c00fefc74ac1046ef447cbf46f8a63e681d75745614a154835478e0dd"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962001300,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_1.20.13.0_962001300.apk",
+                "FileSize": 345675184,
+                "Hashes": {
+                    "MD5": "9135b9c328372283fda522bd3055bdd6",
+                    "SHA256": "a5739bc52d1530a95273b880bb616ea1ed3822c17c4479603dd5cd515106b4f1"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952001300,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_1.20.13.0_952001300.apk",
+                "FileSize": 330933744,
+                "Hashes": {
+                    "MD5": "2d94a2b71297726d37022be560d6eda2",
+                    "SHA256": "40235698ecc089dd0d2dbdbc384c1c8ba8e57d5e10e7a1f5f37dda0586843203"
+                }
+            },
+            "SplitApkData": {}
+        }
+    }
+}
