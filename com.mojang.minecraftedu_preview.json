@@ -48,5 +48,55 @@
             },
             "SplitApkData": {}
         }
+    },
+    "1.21.01.0": {
+        "x86_64": {
+            "VersionCode": 982100100,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_preview_1.21.01.0_982100100.apk",
+                "FileSize": 437959236,
+                "Hashes": {
+                    "MD5": "c1c8f36e5c907a66b50b8133348dd539",
+                    "SHA256": "644e11344d493d42815640258f8f43526ece5ad24c4fb9ba4e446fc5c7f564fd"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972100100,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_preview_1.21.01.0_972100100.apk",
+                "FileSize": 433023580,
+                "Hashes": {
+                    "MD5": "e668f2d0ab4e21a99b73f4d142fd471e",
+                    "SHA256": "d784f110430798207f8162be00a38b18cd1b48da71cccf93b408b90752e5860d"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962100100,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_preview_1.21.01.0_962100100.apk",
+                "FileSize": 438143532,
+                "Hashes": {
+                    "MD5": "8dca5948b67a16807360f1b2e7f8e08e",
+                    "SHA256": "ab77f1f3f4917716850677ec6774160d6853777afc5c9b056784d7748a2f6bb5"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952100100,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftedu_preview_1.21.01.0_952100100.apk",
+                "FileSize": 422484588,
+                "Hashes": {
+                    "MD5": "9bb2b2df6e037d740704f641bb843bd0",
+                    "SHA256": "a9e165f959b362067b6834ccce0c891962232fee08c64a2677dd0130b63abf19"
+                }
+            },
+            "SplitApkData": {}
+        }
     }
 }
