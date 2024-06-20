@@ -99,6 +99,56 @@
             "SplitApkData": {}
         }
     },
+    "1.21.1.03": {
+        "x86_64": {
+            "VersionCode": 982100103,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.1.03_982100103.apk",
+                "FileSize": 993185436,
+                "Hashes": {
+                    "MD5": "27a89e27ede3e7320e1023b816a5b708",
+                    "SHA256": "2d3fdad5a0ca81112881c1d9ed6f20e9825a7a3900f02876c0acc7d06e03f93c"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972100103,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.1.03_972100103.apk",
+                "FileSize": 988139176,
+                "Hashes": {
+                    "MD5": "ae2089e80bab8d9dd089728f62a85b59",
+                    "SHA256": "1f92973d44b59075550c6a5a1a47dd2c481763a98cba06b439460005ba66f6cb"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962100103,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.1.03_962100103.apk",
+                "FileSize": 993595024,
+                "Hashes": {
+                    "MD5": "6e99f8d94bede2017f96d1b598d110a5",
+                    "SHA256": "7deb879b59370921d484a770703cf90f7240ccbc9c612b303f02ffd586a0d52e"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952100103,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.1.03_952100103.apk",
+                "FileSize": 978333360,
+                "Hashes": {
+                    "MD5": "dc895fb2920740b50746b3b35af2d33e",
+                    "SHA256": "dfa9ee0dc874a46209c1665399e88a2de1bae8090239399031f40bc8dc36bc59"
+                }
+            },
+            "SplitApkData": {}
+        }
+    },
     "1.21.10.21": {
         "x86_64": {
             "VersionCode": 982101021,
