@@ -348,5 +348,55 @@
             },
             "SplitApkData": {}
         }
+    },
+    "1.21.20.21": {
+        "x86_64": {
+            "VersionCode": 982102021,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.20.21_982102021.apk",
+                "FileSize": 1265445751,
+                "Hashes": {
+                    "MD5": "7e68d577007e90d15d83a26766f9f5b8",
+                    "SHA256": "df8b0919c4bd381d493695506f623c82bbc0f4484de52f0a06e50b08fbff5a69"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972102021,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.20.21_972102021.apk",
+                "FileSize": 1259805571,
+                "Hashes": {
+                    "MD5": "b1dbe2b01969662e3423f3a1bfe0d098",
+                    "SHA256": "c204468bd18b8967dbcb961894a02e429c81c79836a73b0b3e207b112a213c78"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962102021,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.20.21_962102021.apk",
+                "FileSize": 1265539947,
+                "Hashes": {
+                    "MD5": "4f5cf6d591f63f1c2a087fd87ae83dd3",
+                    "SHA256": "46d14731459e12aae3281c3e6067c414c8734f6430bd5dfc186e365026a240d3"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952102021,
+            "FullApkData": {
+                "FileName": "com.mojang.minecraftpe_1.21.20.21_952102021.apk",
+                "FileSize": 1250421643,
+                "Hashes": {
+                    "MD5": "0fbfc173328b7594913d9844cf43a75a",
+                    "SHA256": "795410306ed831c58ea8593799139b7776da8706f84a3695448d3dfc2b39be9a"
+                }
+            },
+            "SplitApkData": {}
+        }
     }
 }
