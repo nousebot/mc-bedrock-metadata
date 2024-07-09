@@ -51,5 +51,31 @@
             },
             "SplitApkData": {}
         }
+    },
+    "1.21.2.02": {
+        "arm64-v8a": {
+            "VersionCode": 972100202,
+            "FullApkData": {
+                "FileName": "com.mojang.minecrafttrialpe_1.21.2.02_972100202.apk",
+                "FileSize": 358989585,
+                "Hashes": {
+                    "MD5": "56d63e12aadba8c246ef5ee8ca559673",
+                    "SHA256": "ebe637e9e67a5f51e10bb9ebf9b1c32ab162581b6a891ea8f08f1f81c7b97cd7"
+                }
+            },
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952100202,
+            "FullApkData": {
+                "FileName": "com.mojang.minecrafttrialpe_1.21.2.02_952100202.apk",
+                "FileSize": 349171481,
+                "Hashes": {
+                    "MD5": "361e4bb54457f68f6e737b9234d6cf95",
+                    "SHA256": "fdf218e7ae0e88790bd031130b7131ed49edb616a403aad4b20321457f30ce94"
+                }
+            },
+            "SplitApkData": {}
+        }
     }
 }
