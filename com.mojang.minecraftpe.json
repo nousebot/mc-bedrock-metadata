@@ -499,5 +499,26 @@
             "SplitApkData": {}
         }
     },
-    "1.21.20.23": {}
+    "1.21.20.23": {
+        "x86_64": {
+            "VersionCode": 982102023,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972102023,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962102023,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952102023,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
+    }
 }
