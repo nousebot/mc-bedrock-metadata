@@ -137,5 +137,17 @@
             "FullApkData": {},
             "SplitApkData": {}
         }
+    },
+    "1.21.44.01": {
+        "arm64-v8a": {
+            "VersionCode": 972105028,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952105028,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
     }
 }
