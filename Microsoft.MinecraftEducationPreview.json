@@ -59,5 +59,17 @@
                 "bd4a5afc-36ef-41aa-857f-cd992975a8d2"
             ]
         }
+    },
+    "2024.1216.1837.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationPreview_2024.1216.1837.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "7a6f3344f76299928e81c5907e2ab62f",
+                "SHA256": "8aced9217e3b71f1020bacd7b1f0d7e2db3625ecda3ae33c49aaba443989de4e"
+            },
+            "UpdateID": [
+                "d1f9fb1e-1945-4a3d-935a-3ce4e77a14ee"
+            ]
+        }
     }
 }
