@@ -3102,5 +3102,27 @@
                 "aa637bf7-657c-4e6a-8e95-840de837f48c"
             ]
         }
+    },
+    "1.21.6025.0": {
+        "x64": {
+            "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6025.0_x64__8wekyb3d8bbwe.Appx",
+            "Hashes": {
+                "MD5": "077c8bb4193e5ef4a65e4f79b3ee007b",
+                "SHA256": "ddaa6c84a161eaa427f7bd6bcac6574a7e24d46519b4dc63dcbf7a1c9b7d3862"
+            },
+            "UpdateID": [
+                "11186fd0-c4a2-4da6-8b25-74dab41acaf1"
+            ]
+        },
+        "x86": {
+            "FileName": "Microsoft.MinecraftWindowsBeta_1.21.6025.0_x86__8wekyb3d8bbwe.Appx",
+            "Hashes": {
+                "MD5": "846e14c9a190a94ff79bf99cbfa1fb7d",
+                "SHA256": "6c17a16e97f21d7d1d559a5c8c9e48a430ae3e74849f3f1bd4746405040ab2b1"
+            },
+            "UpdateID": [
+                "499c5a19-8f81-4723-9b88-7064d7841ba2"
+            ]
+        }
     }
 }
