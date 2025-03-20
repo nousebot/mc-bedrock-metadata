@@ -115,5 +115,27 @@
             "FullApkData": {},
             "SplitApkData": {}
         }
+    },
+    "1.21.8.0": {
+        "x86_64": {
+            "VersionCode": 982100800,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972100800,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962100800,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952100800,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
     }
 }
