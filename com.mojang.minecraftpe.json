@@ -1247,6 +1247,28 @@
             "SplitApkData": {}
         }
     },
+    "1.21.72.01": {
+        "x86_64": {
+            "VersionCode": 982107201,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972107201,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962107201,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952107201,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
+    },
     "1.21.80.20": {
         "x86_64": {
             "VersionCode": 982108020,
@@ -1331,6 +1353,28 @@
         },
         "armeabi-v7a": {
             "VersionCode": 952108025,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
+    },
+    "1.21.80.27": {
+        "x86_64": {
+            "VersionCode": 982108027,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972108027,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962108027,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952108027,
             "FullApkData": {},
             "SplitApkData": {}
         }
