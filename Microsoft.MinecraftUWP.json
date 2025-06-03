@@ -8878,7 +8878,8 @@
                 "SHA256": "438bc017ec4e4cf5988ed90895bfeb3f1ecbc5a2ffc416825e9b9b5ab9e68e2d"
             },
             "UpdateID": [
-                "fa36217a-0da7-4a6d-b854-3b4d5e4d3bd9"
+                "fa36217a-0da7-4a6d-b854-3b4d5e4d3bd9",
+                "df1b9cfb-bf8b-417c-89e8-158d907df6a5"
             ]
         },
         "x86": {
@@ -8888,7 +8889,8 @@
                 "SHA256": "79eeab392a9f33c8e55442c3dee599f1d6b5f0f8cf842bdcfab3ffd51b02f7b0"
             },
             "UpdateID": [
-                "08b69f1d-e548-437c-ba01-60d89d556344"
+                "08b69f1d-e548-437c-ba01-60d89d556344",
+                "e662d311-3843-43a5-99b9-634f454e9383"
             ]
         },
         "arm": {
@@ -8898,7 +8900,8 @@
                 "SHA256": "f5c2dd7c509d52b0c203a62dfe9edf9239d2c778640daf654e58bcd0a68e9670"
             },
             "UpdateID": [
-                "6b96fbb5-756d-4c54-ab6e-3a8890619e19"
+                "6b96fbb5-756d-4c54-ab6e-3a8890619e19",
+                "bc92482e-469e-4db4-ac0a-941e09c33062"
             ]
         }
     }
