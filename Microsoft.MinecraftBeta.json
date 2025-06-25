@@ -2871,5 +2871,22 @@
                 "http://d2.xboxlive.cn/4/d04a0b7c-65ea-40da-8891-cc6d40de5a21/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.10021.0.d942b1e9-d746-4985-b6da-488d8a7cad6e/Microsoft.MinecraftBeta_1.21.10021.0_neutral__8wekyb3d8bbwe_x.xvc"
             ]
         }
+    },
+    "1.21.10022.0": {
+        "xboxone": {
+            "FileName": "Microsoft.MinecraftBeta_1.21.10022.0_neutral__8wekyb3d8bbwe_x.xvc",
+            "FileSize": 2146574336,
+            "Hashes": {
+                "MD5": "aabf715ae266069b108176bb781fa5dd",
+                "SHA256": "36c2a1e1effe3d4c3f59defa803a23127968311014817c214ba3aadb2d9f0ae3"
+            },
+            "VersionID": "1.21.10022.0.24168c49-d43d-4bf3-9daf-963eb680e3f2",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.cn/8/1384cae8-9718-465b-bbb5-4308675f3969/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.10022.0.fdfaf463-f738-4d39-9388-fa6d75626487/Microsoft.MinecraftBeta_1.21.10022.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://assets2.xboxlive.cn/8/1384cae8-9718-465b-bbb5-4308675f3969/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.10022.0.fdfaf463-f738-4d39-9388-fa6d75626487/Microsoft.MinecraftBeta_1.21.10022.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://d1.xboxlive.cn/8/1384cae8-9718-465b-bbb5-4308675f3969/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.10022.0.fdfaf463-f738-4d39-9388-fa6d75626487/Microsoft.MinecraftBeta_1.21.10022.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://d2.xboxlive.cn/8/1384cae8-9718-465b-bbb5-4308675f3969/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.10022.0.fdfaf463-f738-4d39-9388-fa6d75626487/Microsoft.MinecraftBeta_1.21.10022.0_neutral__8wekyb3d8bbwe_x.xvc"
+            ]
+        }
     }
 }
