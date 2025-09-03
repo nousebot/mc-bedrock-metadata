@@ -3024,5 +3024,22 @@
                 "http://d2.xboxlive.cn/10/215d4e4e-aa89-45b4-bc16-c6d2f7785c21/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.11026.0.3f1281b5-8022-4f4c-a2e3-e0a36ef1f575/update-1.21.11044.0.caa3eff7-33bb-4851-880a-38cfbb8aaddf.xsp"
             ]
         }
+    },
+    "1.21.12020.0": {
+        "xboxone": {
+            "FileName": "update-1.21.11044.0.caa3eff7-33bb-4851-880a-38cfbb8aaddf.xsp",
+            "FileSize": 12384,
+            "Hashes": {
+                "MD5": "f2292302b8f6621e95b32c315c9bcc91",
+                "SHA256": "cc86fb4cc30e48e6faf9f38ec4c331197514dd96517b595ce88167cb1b416e42"
+            },
+            "VersionID": "1.21.12020.0.ce8de60f-1966-4402-b671-3cd55a64630e",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.cn/10/9cc51680-af25-4b09-a90e-def4bfddfaee/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.12020.0.ce8de60f-1966-4402-b671-3cd55a64630e/update-1.21.11044.0.caa3eff7-33bb-4851-880a-38cfbb8aaddf.xsp",
+                "http://assets2.xboxlive.cn/10/9cc51680-af25-4b09-a90e-def4bfddfaee/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.12020.0.ce8de60f-1966-4402-b671-3cd55a64630e/update-1.21.11044.0.caa3eff7-33bb-4851-880a-38cfbb8aaddf.xsp",
+                "http://d1.xboxlive.cn/10/9cc51680-af25-4b09-a90e-def4bfddfaee/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.12020.0.ce8de60f-1966-4402-b671-3cd55a64630e/update-1.21.11044.0.caa3eff7-33bb-4851-880a-38cfbb8aaddf.xsp",
+                "http://d2.xboxlive.cn/10/9cc51680-af25-4b09-a90e-def4bfddfaee/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.21.12020.0.ce8de60f-1966-4402-b671-3cd55a64630e/update-1.21.11044.0.caa3eff7-33bb-4851-880a-38cfbb8aaddf.xsp"
+            ]
+        }
     }
 }

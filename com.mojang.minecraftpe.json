@@ -1972,5 +1972,27 @@
             "FullApkData": {},
             "SplitApkData": {}
         }
+    },
+    "1.21.120.20": {
+        "x86_64": {
+            "VersionCode": 982112020,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972112020,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962112020,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952112020,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
     }
 }
