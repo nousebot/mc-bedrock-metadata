@@ -3852,5 +3852,22 @@
                 "75af0cb3-d5ab-4c4a-a869-94195acb173a"
             ]
         }
+    },
+    "1.21.12021.0": {
+        "pc": {
+            "FileName": "Microsoft.MinecraftWindowsBeta_1.21.12021.0_x64__8wekyb3d8bbwe.msixvc",
+            "FileSize": 1743065088,
+            "Hashes": {
+                "MD5": null,
+                "SHA256": null
+            },
+            "VersionID": "1.21.12021.0.2212524b-5ddc-41da-b1f9-bccef6999bbf",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.cn/12/66b02bc1-c4f1-4986-a183-c23e00cccecb/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12021.0.e5cfeb9c-2eaa-4959-8a49-e82cde29702a/Microsoft.MinecraftWindowsBeta_1.21.12021.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://assets2.xboxlive.cn/12/66b02bc1-c4f1-4986-a183-c23e00cccecb/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12021.0.e5cfeb9c-2eaa-4959-8a49-e82cde29702a/Microsoft.MinecraftWindowsBeta_1.21.12021.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d1.xboxlive.cn/12/66b02bc1-c4f1-4986-a183-c23e00cccecb/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12021.0.e5cfeb9c-2eaa-4959-8a49-e82cde29702a/Microsoft.MinecraftWindowsBeta_1.21.12021.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d2.xboxlive.cn/12/66b02bc1-c4f1-4986-a183-c23e00cccecb/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12021.0.e5cfeb9c-2eaa-4959-8a49-e82cde29702a/Microsoft.MinecraftWindowsBeta_1.21.12021.0_x64__8wekyb3d8bbwe.msixvc"
+            ]
+        }
     }
 }
