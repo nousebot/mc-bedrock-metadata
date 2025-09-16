@@ -2016,5 +2016,27 @@
             "FullApkData": {},
             "SplitApkData": {}
         }
+    },
+    "1.21.120.22": {
+        "x86_64": {
+            "VersionCode": 982112022,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972112022,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962112022,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952112022,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
     }
 }
