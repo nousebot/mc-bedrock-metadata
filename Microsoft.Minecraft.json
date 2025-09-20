@@ -3,8 +3,8 @@
         "arm": {
             "FileName": "Microsoft.Minecraft_0.1602.2.0_arm__8wekyb3d8bbwe.Appx",
             "Hashes": {
-                "MD5": null,
-                "SHA256": null
+                "MD5": "6698a05fe9f8b615b7547876a3d29123",
+                "SHA256": "1ddd144ee0f56da607f4d8379fd7b2afb186f288e16d2d288a386b2ed790f304"
             },
             "UpdateID": [
                 "c5f36563-632b-437a-946d-cac1b70145fc"
@@ -15,8 +15,8 @@
         "arm": {
             "FileName": "Microsoft.Minecraft_1.16.4002.0_arm__8wekyb3d8bbwe.Appx",
             "Hashes": {
-                "MD5": null,
-                "SHA256": null
+                "MD5": "7e89da39f3a18b17b186d71d6035ca64",
+                "SHA256": "fcfa9af964107c0a2f6cc9f8c50c55444525747d5c1e13187be194239b707b97"
             },
             "UpdateID": [
                 "02f18b0b-10d9-41b2-b9f2-e2c0f727cce8"
@@ -27,8 +27,8 @@
         "arm": {
             "FileName": "Microsoft.Minecraft_1.16.4002.70_arm__8wekyb3d8bbwe.EAppx",
             "Hashes": {
-                "MD5": null,
-                "SHA256": null
+                "MD5": "e7288ba0b38ffe17af26b9d551449803",
+                "SHA256": "acdbb9f03d27cbe21dcf553e4729b5cd47314835361f5122e13a44bceb2f366e"
             },
             "UpdateID": [
                 "abcaf1dc-715d-4cc8-a359-9365ab4e6020"

@@ -977,8 +977,8 @@
         "x64": {
             "FileName": "Microsoft.MinecraftUWPConsole_1.19.3101.70_x64__8wekyb3d8bbwe.EAppx",
             "Hashes": {
-                "MD5": null,
-                "SHA256": null
+                "MD5": "7be5242a816fbd10e1a51c94fdbc327d",
+                "SHA256": "d130e4389828285fff248a7ef45f53dd06b95ca0f56967695e93e946b6e66322"
             },
             "UpdateID": [
                 "8965f6fb-59fb-42b7-af82-e1e96717b9ab",
