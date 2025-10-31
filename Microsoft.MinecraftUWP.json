@@ -9138,5 +9138,22 @@
                 "b580269d-6d40-442f-9fac-13909d7ef061"
             ]
         }
+    },
+    "1.21.12004.0": {
+        "x64": {
+            "FileName": "MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc",
+            "FileSize": 1746046976,
+            "Hashes": {
+                "MD5": "d1a1c8526374596be545b046db3f6e47",
+                "SHA256": "9df436f4331c093d973cfcd2ab58db5dcfb395ed850057e27954b8ed3081ca62"
+            },
+            "VersionID": "1.21.12004.0.b39a5f83-7f8a-44e1-9b80-9ed7f86e0c7c",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.com/1/7d219e7c-a46e-4afc-8176-cec808fc1e1b/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12004.0.0ed99274-787a-4d02-8344-7c6bd1ef77c8/MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://assets2.xboxlive.com/1/7d219e7c-a46e-4afc-8176-cec808fc1e1b/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12004.0.0ed99274-787a-4d02-8344-7c6bd1ef77c8/MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d1.xboxlive.com/1/7d219e7c-a46e-4afc-8176-cec808fc1e1b/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12004.0.0ed99274-787a-4d02-8344-7c6bd1ef77c8/MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d2.xboxlive.com/1/7d219e7c-a46e-4afc-8176-cec808fc1e1b/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12004.0.0ed99274-787a-4d02-8344-7c6bd1ef77c8/MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc"
+            ]
+        }
     }
 }
