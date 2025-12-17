@@ -4090,5 +4090,22 @@
                 "http://d2.xboxlive.com/7/5cba9ea8-c8fe-4881-8c16-b512a92c3588/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.26.25.0.0a3996fe-521b-428f-b73f-c3fe5c11fd1e/Microsoft.MinecraftWindowsBeta_1.26.25.0_x64__8wekyb3d8bbwe.msixvc"
             ]
         }
+    },
+    "1.26.26.0": {
+        "x64": {
+            "FileName": "Microsoft.MinecraftWindowsBeta_1.26.26.0_x64__8wekyb3d8bbwe.msixvc",
+            "FileSize": 1815007232,
+            "Hashes": {
+                "MD5": "53106438adb98237b09ec2d0f54a2f6a",
+                "SHA256": "a4a3ef27f93d5adc3d65d841d0839dbeb8cd2495bdc76db6b64fcde4a232e9ea"
+            },
+            "VersionID": "1.26.26.0.438469c4-32f3-4f1c-9bf8-8f26fb6b95b1",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.com/3/86bb7d70-546f-4445-bd74-56de82ebbc99/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.26.26.0.18a224cd-1246-4304-a83c-7f68190c7423/Microsoft.MinecraftWindowsBeta_1.26.26.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://assets2.xboxlive.com/3/86bb7d70-546f-4445-bd74-56de82ebbc99/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.26.26.0.18a224cd-1246-4304-a83c-7f68190c7423/Microsoft.MinecraftWindowsBeta_1.26.26.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d1.xboxlive.com/3/86bb7d70-546f-4445-bd74-56de82ebbc99/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.26.26.0.18a224cd-1246-4304-a83c-7f68190c7423/Microsoft.MinecraftWindowsBeta_1.26.26.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d2.xboxlive.com/3/86bb7d70-546f-4445-bd74-56de82ebbc99/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.26.26.0.18a224cd-1246-4304-a83c-7f68190c7423/Microsoft.MinecraftWindowsBeta_1.26.26.0_x64__8wekyb3d8bbwe.msixvc"
+            ]
+        }
     }
 }
