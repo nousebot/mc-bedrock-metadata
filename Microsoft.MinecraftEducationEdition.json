@@ -182,5 +182,17 @@
                 "c707c281-fa81-4523-832c-a561d18635c1"
             ]
         }
+    },
+    "2026.211.342.0": {
+        "neutral": {
+            "FileName": "Microsoft.MinecraftEducationEdition_2026.211.342.0_neutral_~_8wekyb3d8bbwe.AppxBundle",
+            "Hashes": {
+                "MD5": "2d98a24fe1e9d7944b29dc23d9badc23",
+                "SHA256": "2f2f0875a7b38a17f0103604fc0ea486bbb70a9aff5f88119714be9361d58e56"
+            },
+            "UpdateID": [
+                "a44202a7-22d6-4cb4-8898-5731a31ddf6a"
+            ]
+        }
     }
 }
