@@ -1494,5 +1494,22 @@
                 "http://d2.xboxlive.com/7/4ed96258-9b06-4738-8d01-fce0476c6b1f/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.26.1202.0.92e92ae8-c42d-4211-9bb6-8dda8f8b4c45/Microsoft.186805A1E9E_1.26.1202.0_neutral__8wekyb3d8bbwe_x.xvc"
             ]
         }
+    },
+    "1.26.1301.0": {
+        "x1": {
+            "FileName": "Microsoft.186805A1E9E_1.26.1301.0_neutral__8wekyb3d8bbwe_x.xvc",
+            "FileSize": 2233946112,
+            "Hashes": {
+                "MD5": "e91cac886d62278104f07c616e03309a",
+                "SHA256": "af89355c593c836415d17223d59274d02a096446ae229521fdec182f6293d2f6"
+            },
+            "VersionID": "1.26.1301.0.f6e35e28-f301-4922-861a-752a6fcf75aa",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.com/10/543b1d20-caf0-4e97-80bf-c90f0e65127f/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.26.1301.0.59866165-5ef0-4470-9f25-8f748c527b4c/Microsoft.186805A1E9E_1.26.1301.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://assets2.xboxlive.com/10/543b1d20-caf0-4e97-80bf-c90f0e65127f/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.26.1301.0.59866165-5ef0-4470-9f25-8f748c527b4c/Microsoft.186805A1E9E_1.26.1301.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://d1.xboxlive.com/10/543b1d20-caf0-4e97-80bf-c90f0e65127f/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.26.1301.0.59866165-5ef0-4470-9f25-8f748c527b4c/Microsoft.186805A1E9E_1.26.1301.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://d2.xboxlive.com/10/543b1d20-caf0-4e97-80bf-c90f0e65127f/8c7a6ccd-246c-4955-aeb6-b32e64fd95fd/1.26.1301.0.59866165-5ef0-4470-9f25-8f748c527b4c/Microsoft.186805A1E9E_1.26.1301.0_neutral__8wekyb3d8bbwe_x.xvc"
+            ]
+        }
     }
 }
