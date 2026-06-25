@@ -3315,6 +3315,28 @@
             "SplitApkData": {}
         }
     },
+    "1.26.32.2": {
+        "x86_64": {
+            "VersionCode": 982603202,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "arm64-v8a": {
+            "VersionCode": 972603202,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "x86": {
+            "VersionCode": 962603202,
+            "FullApkData": {},
+            "SplitApkData": {}
+        },
+        "armeabi-v7a": {
+            "VersionCode": 952603202,
+            "FullApkData": {},
+            "SplitApkData": {}
+        }
+    },
     "1.26.40.20": {
         "x86_64": {
             "VersionCode": 982604020,
