@@ -9512,5 +9512,22 @@
                 "http://d2.xboxlive.com/10/1e7d62c3-960f-4386-81b1-1789edc683d1/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.26.3301.0.2a4af946-1668-404e-8cc0-cb081f69103a/Microsoft.MinecraftUWP_1.26.3301.0_x64__8wekyb3d8bbwe.msixvc"
             ]
         }
+    },
+    "1.26.4005.0": {
+        "x64": {
+            "FileName": "Microsoft.MinecraftUWP_1.26.4005.0_x64__8wekyb3d8bbwe.msixvc",
+            "FileSize": 2490257408,
+            "Hashes": {
+                "MD5": "ed596f043f77a602f0067bb97ede8899",
+                "SHA256": "80618a768ee1d7030a6e24e526da74360365e006903387caa8ed46d01823708f"
+            },
+            "VersionID": "1.26.4005.0.83783483-13d7-40ad-9b03-3e88d66c2fb0",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.com/4/126a2a46-2f8e-407b-80f2-8560a63ce023/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.26.4005.0.4c2b83a6-6147-4006-aa1b-1f494f17e026/Microsoft.MinecraftUWP_1.26.4005.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://assets2.xboxlive.com/4/126a2a46-2f8e-407b-80f2-8560a63ce023/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.26.4005.0.4c2b83a6-6147-4006-aa1b-1f494f17e026/Microsoft.MinecraftUWP_1.26.4005.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d1.xboxlive.com/4/126a2a46-2f8e-407b-80f2-8560a63ce023/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.26.4005.0.4c2b83a6-6147-4006-aa1b-1f494f17e026/Microsoft.MinecraftUWP_1.26.4005.0_x64__8wekyb3d8bbwe.msixvc",
+                "http://d2.xboxlive.com/4/126a2a46-2f8e-407b-80f2-8560a63ce023/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.26.4005.0.4c2b83a6-6147-4006-aa1b-1f494f17e026/Microsoft.MinecraftUWP_1.26.4005.0_x64__8wekyb3d8bbwe.msixvc"
+            ]
+        }
     }
 }
