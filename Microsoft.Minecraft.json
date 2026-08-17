@@ -7,7 +7,8 @@
                 "SHA256": "1ddd144ee0f56da607f4d8379fd7b2afb186f288e16d2d288a386b2ed790f304"
             },
             "UpdateID": [
-                "c5f36563-632b-437a-946d-cac1b70145fc"
+                "c5f36563-632b-437a-946d-cac1b70145fc",
+                "4d598dd7-e566-4d6e-98b6-06fc89997b34"
             ]
         }
     },
@@ -19,7 +20,8 @@
                 "SHA256": "fcfa9af964107c0a2f6cc9f8c50c55444525747d5c1e13187be194239b707b97"
             },
             "UpdateID": [
-                "02f18b0b-10d9-41b2-b9f2-e2c0f727cce8"
+                "02f18b0b-10d9-41b2-b9f2-e2c0f727cce8",
+                "e2b0be2e-92ba-41d7-b4cc-9c06cbea2079"
             ]
         }
     },
@@ -31,7 +33,8 @@
                 "SHA256": "acdbb9f03d27cbe21dcf553e4729b5cd47314835361f5122e13a44bceb2f366e"
             },
             "UpdateID": [
-                "abcaf1dc-715d-4cc8-a359-9365ab4e6020"
+                "abcaf1dc-715d-4cc8-a359-9365ab4e6020",
+                "1715cbc7-eb87-4256-bc44-956a6b5d19b6"
             ]
         }
     }
