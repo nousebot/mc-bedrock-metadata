@@ -3840,5 +3840,22 @@
                 "http://d2.xboxlive.com/15/a2e105f2-b888-4b04-bd2d-084fa659daa2/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.26.5025.0.9d8f868e-adbb-4a22-bffc-a01488c25670/Microsoft.MinecraftBeta_1.26.5025.0_neutral__8wekyb3d8bbwe_x.xvc"
             ]
         }
+    },
+    "1.26.5026.0": {
+        "x1": {
+            "FileName": "Microsoft.MinecraftBeta_1.26.5026.0_neutral__8wekyb3d8bbwe_x.xvc",
+            "FileSize": 2330525696,
+            "Hashes": {
+                "MD5": "d3292d9a36c0ab667a8f799ebc671e1d",
+                "SHA256": "a2b23634412d56f930420ea9fcf8b592ac0afefc8a5527143e3b7cb3942537e5"
+            },
+            "VersionID": "1.26.5026.0.23deac9e-0c0a-4d20-9141-69b7dd99a67e",
+            "DownloadURLs": [
+                "http://assets1.xboxlive.com/7/791ddb12-eb8a-4d6c-8441-e8cc7c6c1b25/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.26.5026.0.a276b836-2549-489f-a702-ea2e661281c4/Microsoft.MinecraftBeta_1.26.5026.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://assets2.xboxlive.com/7/791ddb12-eb8a-4d6c-8441-e8cc7c6c1b25/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.26.5026.0.a276b836-2549-489f-a702-ea2e661281c4/Microsoft.MinecraftBeta_1.26.5026.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://d1.xboxlive.com/7/791ddb12-eb8a-4d6c-8441-e8cc7c6c1b25/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.26.5026.0.a276b836-2549-489f-a702-ea2e661281c4/Microsoft.MinecraftBeta_1.26.5026.0_neutral__8wekyb3d8bbwe_x.xvc",
+                "http://d2.xboxlive.com/7/791ddb12-eb8a-4d6c-8441-e8cc7c6c1b25/4fbf0c64-2569-4095-8c34-6124ce6fade7/1.26.5026.0.a276b836-2549-489f-a702-ea2e661281c4/Microsoft.MinecraftBeta_1.26.5026.0_neutral__8wekyb3d8bbwe_x.xvc"
+            ]
+        }
     }
 }
